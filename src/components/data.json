@@ -1,0 +1,158 @@
+{
+    "total": 10,
+    "list": [
+        {
+            "account": "lisi",
+            "passWord": "12345",
+            "name": "李四",
+            "createDate": null,
+            "status": 0,
+            "models": [
+                {
+                    "modelCode": 1,
+                    "modelName": "采购管理"
+                },
+                {
+                    "modelCode": 2,
+                    "modelName": "销售管理"
+                },
+                {
+                    "modelCode": 3,
+                    "modelName": "系统管理"
+                },
+                {
+                    "modelCode": 4,
+                    "modelName": "财务管理"
+                },
+                {
+                    "modelCode": 5,
+                    "modelName": "仓库管理"
+                },
+                {
+                    "modelCode": 6,
+                    "modelName": "业务报表"
+                }
+            ]
+        },
+        {
+            "account": "wangwu",
+            "passWord": "555",
+            "name": "王五",
+            "createDate": null,
+            "status": 0,
+            "models": [
+                {
+                    "modelCode": 1,
+                    "modelName": "采购管理"
+                }
+            ]
+        },
+        {
+            "account": "wangwu1",
+            "passWord": "1212",
+            "name": "121",
+            "createDate": null,
+            "status": 0,
+            "models": [
+                {
+                    "modelCode": 1,
+                    "modelName": "采购管理"
+                },
+                {
+                    "modelCode": 2,
+                    "modelName": "销售管理"
+                },
+                {
+                    "modelCode": 3,
+                    "modelName": "系统管理"
+                }
+            ]
+        }
+    ],
+    "pageNum": 1,
+    "pageSize": 10,
+    "size": 3,
+    "startRow": 1,
+    "endRow": 3,
+    "pages": 1,
+    "prePage": 0,
+    "nextPage": 0,
+    "isFirstPage": true,
+    "isLastPage": true,
+    "hasPreviousPage": false,
+    "hasNextPage": false,
+    "navigatePages": 8,
+    "navigatepageNums": [
+        1
+    ],
+    "navigateFirstPage": 1,
+    "navigateLastPage": 1
+}
+
+{
+    "total": 4,
+    "list": [
+        {
+            "venderCode": "1001",
+            "name": "水果店",
+            "passWord": "123",
+            "contactor": "张三",
+            "address": "杭州",
+            "postCode": "1",
+            "tel": "122",
+            "fax": "11",
+            "createDate": "2019-01-02"
+        },
+        {
+            "venderCode": "1002",
+            "name": "服装店",
+            "passWord": "1",
+            "contactor": "王五",
+            "address": "上海",
+            "postCode": "1",
+            "tel": "1",
+            "fax": "1",
+            "createDate": "2008-09-01"
+        },
+        {
+            "venderCode": "1003",
+            "name": "箱包店",
+            "passWord": "1",
+            "contactor": "王大强",
+            "address": "苏州",
+            "postCode": "1",
+            "tel": "1",
+            "fax": "1",
+            "createDate": "2009-09-09"
+        },
+        {
+            "venderCode": "1004",
+            "name": "化妆品店",
+            "passWord": "1",
+            "contactor": "张晓红",
+            "address": "南京",
+            "postCode": "1",
+            "tel": "1",
+            "fax": "1",
+            "createDate": "2009-09-08"
+        }
+    ],
+    "pageNum": 1,
+    "pageSize": 10,
+    "size": 4,
+    "startRow": 1,
+    "endRow": 4,
+    "pages": 1,
+    "prePage": 0,
+    "nextPage": 0,
+    "isFirstPage": true,
+    "isLastPage": true,
+    "hasPreviousPage": false,
+    "hasNextPage": false,
+    "navigatePages": 8,
+    "navigatepageNums": [
+        1
+    ],
+    "navigateFirstPage": 1,
+    "navigateLastPage": 1
+}
